@@ -1,0 +1,31 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	int t,m,n,i,small,large;
+	scanf("%d",&t);
+	while(t--)
+	{
+	    i=1;
+	    scanf("%d %d",&m,&n);
+	    if(m>n)
+	    {
+	        large=m;
+	        small=n;
+	    }
+	    else
+	    {
+	        large=n;
+	        small=m;
+	    }
+	    while(i!=0)
+	    {
+	        i=large%small;
+	        large=small;
+	        small=i;
+	    }
+	    printf("%d\n",(m*n)/(large*large));
+	}
+	return 0;
+}
+
