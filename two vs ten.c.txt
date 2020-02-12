@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	int t,count,flag;
+	long long int x;
+	scanf("%d",&t);
+	while(t--)
+	{
+	    count=0;flag=0;
+	    scanf("%lli",&x);
+	    if(x%5==0)
+	    {
+	        while(x%10!=0)
+	        {
+	            x=x*2;
+	            count++;
+	        }
+	        if(x%10==0)
+	        flag=1;
+	    }
+	    if(flag==1)
+	    printf("%d\n",count);
+	    else
+	    printf("-1\n");
+	}
+	return 0;
+}
+
