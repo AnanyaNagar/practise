@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main(void) {
+	// your code goes here
+	int t;
+	long long int n;
+	scanf("%d",&t);
+	while(t--)
+	{
+	    scanf("%lli",&n);
+	    printf("%d\n",(n/2)+1);
+	}
+	return 0;
+}
+
