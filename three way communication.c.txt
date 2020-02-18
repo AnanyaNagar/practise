@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <math.h>
+int main(void) {
+	// your code goes here
+	int t,r,chef[2],one[2],two[2];
+	float d1,d2,d3;
+	scanf("%d",&t);
+	while(t--)
+	{
+	    scanf("%d",&r);
+	    scanf("%d %d",&chef[0],&chef[1]);
+	    scanf("%d %d",&one[0],&one[1]);
+	    scanf("%d %d",&two[0],&two[1]);
+	    d1=pow(pow(chef[0]-one[0],2)+pow(chef[1]-one[1],2),0.5);
+	    d2=pow(pow(chef[0]-two[0],2)+pow(chef[1]-two[1],2),0.5);
+	    d3=pow(pow(one[0]-two[0],2)+pow(one[1]-two[1],2),0.5);
+	   if(d1<=r&&d2<=r&&d3<=r)
+	   printf("yes");
+	   else if(d1<=r&&d3<=r&&d2>r)
+	   printf("yes");
+	   else if(d1<=r&&d2<=r&&d3>r)
+	   printf("yes");
+	   else if(d2<=r&&d3<=r&&d1>r)
+	   printf("yes");
+	   else
+	   printf("no");
+	   printf("\n");
+	}
+	return 0;
+}
+
