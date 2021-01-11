@@ -1,0 +1,16 @@
+t=int(input())
+for x in range(t):
+    n,m=[int(i) for i in input().split()]
+    listn=[int(i) for i in input().split()]
+    listm=[int(i) for i in input().split()]
+    swaps=0
+    for i in range(min((m,n))+1):
+        if(sum(listn)>sum(listm)):
+            print(swaps)
+            break
+        i=listn.index(min(listn))
+        im=listm.index(max(listm))
+        listn[i],listm[im]=listm[im],listn[i]
+        swaps+=1
+    else:
+        print("-1")
