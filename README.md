@@ -1,13 +1,13 @@
 # Absolute Beginner Track
 
-## * Day 1
-### C++
+## Day 1
+#### C++
 1. Documentation:  
    https://www.w3schools.com/cpp/ 
 2. Watch this videos first: 
    https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q
    
-### Practise Questions:
+#### Practise Questions:
 1. Print “Hello World”
 2. Take name as input from user and print it.
 3. Program to print sum of two numbers.
@@ -20,15 +20,15 @@
 https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp
 
 
-## * Day 2
-### C++
+## Day 2
+#### C++
 1. Documentation: 
    https://www.w3schools.com/cpp/cpp_conditions.asp
    https://www.programiz.com/cpp-programming/if-else 
 2. Watch this video for better understanding: 
    https://youtu.be/6EuqroZibF0
    
-### Practise Questions:
+#### Practise Questions:
 1. Write a program to find even odd numbers using if..else.
 2. Write a program to find the leap year.
 3. Write a program to check whether an alphabet is vowel or consonant.
@@ -39,7 +39,7 @@ https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_
 (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
 
   
-## * Day 3
+## Day 3
 1. **Continue practicing on Hackerrank and try to collect as many stars as you can.**
    (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
 2. **And try to solve the exercises of w3school tutorials for C++ and these questions are based on strings. Please go through all the links.**
