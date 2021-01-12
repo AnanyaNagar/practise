@@ -1,6 +1,6 @@
 # Absolute Beginner Track
 
-## Day 1
+## * Day 1
 ### C++
 1. Documentation:  
    https://www.w3schools.com/cpp/ 
@@ -19,8 +19,8 @@
 (under c++ language proficiency) 
 https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp
 
---------------------------------------------------------------------------------------
-## Day 2
+
+## * Day 2
 ### C++
 1. Documentation: 
    https://www.w3schools.com/cpp/cpp_conditions.asp
@@ -38,8 +38,8 @@ https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_
 **Continue practicing on Hackerrank**
 (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
 
----------------------------------------------------------------------------------------   
-## Day 3
+  
+## * Day 3
 1. **Continue practicing on Hackerrank and try to collect as many stars as you can.**
    (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
 2. **And try to solve the exercises of w3school tutorials for C++ and these questions are based on strings. Please go through all the links.**
