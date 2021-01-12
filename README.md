@@ -19,7 +19,7 @@
 (under c++ language proficiency) 
 https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp
 
-
+--------------------------------------------------------------------------------------
 ## Day 2
 ### C++
 1. Documentation: 
@@ -38,7 +38,7 @@ https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_
 **Continue practicing on Hackerrank**
 (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
 
-   
+---------------------------------------------------------------------------------------   
 ## Day 3
 1. **Continue practicing on Hackerrank and try to collect as many stars as you can.**
    (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
